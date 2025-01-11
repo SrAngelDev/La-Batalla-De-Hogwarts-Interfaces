@@ -14,7 +14,7 @@ dependencies {
     testImplementation(kotlin("test"))
 
     //logger
-    //implementation("org.lighthousegames:logging.1.5.0")
+    implementation("org.lighthousegames:logging:1.5.0")
     implementation("ch.qos.logback:logback-classic:1.5.16")
 
     //mordant
