@@ -3,6 +3,8 @@ package srangeldev
 
 import srangeldev.controllers.SpellCaster
 import srangeldev.models.Configuration
+import srangeldev.models.Enemy
+import srangeldev.models.Inferi1
 
 /**
  * Simulación de defensa de Hogwarts.
