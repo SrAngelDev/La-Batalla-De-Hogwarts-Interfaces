@@ -31,7 +31,7 @@ Para proteger el castillo y derrotar a las fuerzas oscuras, se requiere desarrol
 ### 5. Finalización del sistema
 El programa termina cuando:
 - Todos los enemigos han sido derrotados.
-- Ha transcurrido un tiempo máximo de 15 segundos (definido al inicio).
+- Ha transcurrido un tiempo máximo de 30 segundos (definido al inicio).
 
 ### 6. Propiedades especiales de los enemigos
  - **Inferi tipo I**: Son los únicos que podran atacar, el resto de enemigos no.
